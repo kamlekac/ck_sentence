@@ -12,7 +12,8 @@ public class Text1 {
 			System.out.println("even number");
 		} else {
 			System.out.println("odd numbe");
+			System.out.println(" output");
 		}
-	} // dones
-	// new done
+	} 
+	
 }
